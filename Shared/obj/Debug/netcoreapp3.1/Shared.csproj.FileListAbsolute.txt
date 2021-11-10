@@ -1,0 +1,10 @@
+D:\ju_socketProgramming\socketsProgramming01\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+D:\ju_socketProgramming\socketsProgramming01\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+D:\ju_socketProgramming\socketsProgramming01\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
+D:\ju_socketProgramming\socketsProgramming01\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.AssemblyReference.cache
+D:\ju_socketProgramming\socketsProgramming01\Shared\obj\Debug\netcoreapp3.1\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ju_socketProgramming\socketsProgramming01\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+D:\ju_socketProgramming\socketsProgramming01\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+D:\ju_socketProgramming\socketsProgramming01\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+D:\ju_socketProgramming\socketsProgramming01\Shared\obj\Debug\netcoreapp3.1\Shared.dll
+D:\ju_socketProgramming\socketsProgramming01\Shared\obj\Debug\netcoreapp3.1\Shared.pdb

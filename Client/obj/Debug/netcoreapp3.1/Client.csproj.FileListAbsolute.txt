@@ -1,0 +1,16 @@
+D:\ju_socketProgramming\socketsProgramming01\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\ju_socketProgramming\socketsProgramming01\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\ju_socketProgramming\socketsProgramming01\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\ju_socketProgramming\socketsProgramming01\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\ju_socketProgramming\socketsProgramming01\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\ju_socketProgramming\socketsProgramming01\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\ju_socketProgramming\socketsProgramming01\Client\bin\Debug\netcoreapp3.1\Shared.dll
+D:\ju_socketProgramming\socketsProgramming01\Client\bin\Debug\netcoreapp3.1\Shared.pdb
+D:\ju_socketProgramming\socketsProgramming01\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+D:\ju_socketProgramming\socketsProgramming01\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\ju_socketProgramming\socketsProgramming01\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\ju_socketProgramming\socketsProgramming01\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\ju_socketProgramming\socketsProgramming01\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\ju_socketProgramming\socketsProgramming01\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\ju_socketProgramming\socketsProgramming01\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\ju_socketProgramming\socketsProgramming01\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache

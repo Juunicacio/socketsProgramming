@@ -1,0 +1,17 @@
+D:\ju_socketProgramming\socketsProgramming01\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\ju_socketProgramming\socketsProgramming01\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\ju_socketProgramming\socketsProgramming01\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\ju_socketProgramming\socketsProgramming01\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\ju_socketProgramming\socketsProgramming01\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\ju_socketProgramming\socketsProgramming01\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\ju_socketProgramming\socketsProgramming01\Server\bin\Debug\netcoreapp3.1\Shared.dll
+D:\ju_socketProgramming\socketsProgramming01\Server\bin\Debug\netcoreapp3.1\Shared.pdb
+D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
