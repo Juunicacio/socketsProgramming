@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace Server
 {
+    // The EchoServer is important because this allows us to really test out our concepts and ideas
     public class EchoServer
     {
         // when you are building a server you wanna make sure that you're
