@@ -11,7 +11,6 @@ D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Serv
 D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
 D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
 D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
-D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
 D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.dll
 D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.pdb
 D:\ju_socketProgramming\socketsProgramming01\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
